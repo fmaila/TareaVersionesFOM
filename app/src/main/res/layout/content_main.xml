@@ -22,6 +22,7 @@
         android:layout_width="wrap_content"
         android:layout_height="wrap_content"
         android:text="Hola"
+        android:background="@color/colorAccent"
         android:textColor="@android:color/holo_red_dark"
         tools:layout_editor_absoluteX="147dp"
         tools:layout_editor_absoluteY="287dp" />
@@ -31,6 +32,7 @@
         android:layout_width="wrap_content"
         android:layout_height="wrap_content"
         android:text="Saludo"
+        android:background="@color/colorAccent"
         tools:layout_editor_absoluteX="142dp"
         tools:layout_editor_absoluteY="353dp" />
 
@@ -39,7 +41,7 @@
         android:layout_width="wrap_content"
         android:layout_height="wrap_content"
         android:text="prueba1"
-        android:background="@color/azul"
+        android:background="@color/colorAccent"
         tools:layout_editor_absoluteX="261dp"
         tools:layout_editor_absoluteY="287dp" />
 
